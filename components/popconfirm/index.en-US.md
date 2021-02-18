@@ -19,7 +19,7 @@ The difference with the `confirm` modal dialog is that it's more lightweight tha
 | --- | --- | --- | --- |
 | cancelButtonProps | The cancel button props | [ButtonProps](/components/button/#API) | - |
 | cancelText | The text of the Cancel button | string | `Cancel` |
-| disabled | Whether show popconfirm when click its childrenNode | boolean | false |
+| disabled | Whether to show popconfirm when its childrenNode gets clicked | boolean | false |
 | icon | Customize icon of confirmation | ReactNode | &lt;ExclamationCircle /> |
 | okButtonProps | The ok button props | [ButtonProps](/components/button/#API) | - |
 | okText | The text of the Confirm button | string | `OK` |
